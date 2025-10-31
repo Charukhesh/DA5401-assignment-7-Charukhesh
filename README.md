@@ -35,11 +35,12 @@ DA5401-assignment-7-Charukhesh/
 - matplotlib
 - scikit-learn
 - xgboost
+- seaborn
 
 Install the required libraries using pip:
 
 ```bash
-pip install pandas numpy matplotlib scikit-learn xgboost
+pip install pandas numpy matplotlib scikit-learn xgboost seaborn
 ```
 
 ## How to Run This Project
