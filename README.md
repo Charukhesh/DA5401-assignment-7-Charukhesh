@@ -1,8 +1,5 @@
 # Evaluating Multi-Class Classifier Performance on the Landsat Dataset via ROC and PRC Analysis
 
-- **Author:** Charukhesh  
-- **Roll No:** AE22B028
-
 ## 📖 Project Overview
 
 This project provides a comprehensive analysis of machine learning models for the multi-class task of land cover classification using the UCI Landsat Satellite dataset. A diverse suite of nine classifiers was evaluated, spanning from baseline models like Dummy and Naive Bayes to robust individual performers such as Support Vector Machines (SVC), and culminating with high-performance ensembles including Random Forest and XGBoost.
@@ -12,7 +9,7 @@ The core of the analysis moves beyond simple accuracy metrics, employing a detai
 ## 📁 Repository Structure
 
 ```
-DA5401-assignment-7-Charukhesh/
+ROC_PRC_Analysis/
 │
 ├── main.ipynb
 ├── landSat_dataset/
@@ -46,8 +43,8 @@ pip install pandas numpy matplotlib scikit-learn xgboost seaborn
 ## How to Run This Project
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/Charukhesh/DA5401-assignment-7-Charukhesh.git
-    cd DA5401-assignment-7-Charukhesh
+    git clone https://github.com/Charukhesh/ROC_PRC_Analysis.git
+    cd ROC_PRC_Analysis
     ```
 
 2. **Dataset**
